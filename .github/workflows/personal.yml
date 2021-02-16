@@ -26,5 +26,6 @@ jobs:
             plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c
             plugin_languages_details: bytes-size, percentage
             config_timezone: Asia/Jakarta
+            repositories_forks: true
 
     
