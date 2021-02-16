@@ -28,6 +28,7 @@ jobs:
             filename: github-metrics-additional.svg
             token: ${{ secrets.METRICS_TOKEN }}
             committer_token: ${{ secrets.GITHUB_TOKEN }}
+            base: ""
             plugin_habits: yes
             plugin_habits_from: 200
             plugin_habits_facts: yes
