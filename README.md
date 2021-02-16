@@ -1,3 +1,4 @@
+![Metrics](https://github.com/hafizhfr/hafizhfr/blob/main/github-metrics.svg)
 ![Hafizh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizhfr&show_icons=true&count_private=true&theme=tokyonight)
 
 <!--
