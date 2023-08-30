@@ -1,5 +1,3 @@
-### Hi there, I'm Hafizh 👋
-
 <br/>
 <details>
   <summary>My GitHub Stats</summary>
